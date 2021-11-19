@@ -81,8 +81,10 @@ with right:
     st.image(health_logo,width=90)
 
 url = "https://www.linkedin.com/in/elliott-joliman/"
+url_github = "https://github.com/elliott-jlm"
 st.sidebar.header("Elliott JOLIMAN")
 st.sidebar.write("[My Linkedin](%s)" % url)
+st.sidebar.write("[My gitHub](%s)" % url_github)
 
 toc = st.sidebar.selectbox(
     "Navigation bar :",
