@@ -1,0 +1,2 @@
+sourceName,sourceVersion,device,type,unit,creationDate,startDate,endDate,value
+"iPhone de Iris","14.4.1",,"HeadphoneAudioExposureEvent",,2021-03-27 03:35:36 +0200,2021-03-20 03:06:13 +0200,2021-03-27 03:35:36 +0200,HKCategoryValueHeadphoneAudioExposureEventSevenDayLimit
